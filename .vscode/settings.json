@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "name": "dbextracaodados (PostgreSQL)",
+            "driver": "PostgreSQL",
+            "server": "localhost",
+            "port": 5433,
+            "database": "dbextracaodados",
+            "username": "postgres",
+            "password": "aluno",
+            "isActive": true
+        }
+    ]
+}
