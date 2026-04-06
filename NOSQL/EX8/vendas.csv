@@ -1,0 +1,9 @@
+id,produto,categoria,preco,quantidade,data
+1,Notebook Dell,Eletronicos,3500.00,2,2023-01-10
+2,Mouse sem fio,Acessorios,150.00,10,2023-01-15
+3,Monitor 24 polegadas,Eletronicos,800.00,5,2023-01-20
+4,Teclado Mecanico,Acessorios,300.00,8,2023-01-25
+5,Cadeira Gamer,Moveis,1200.00,3,2023-02-01
+6,Mesa de Escritorio,Moveis,600.00,4,2023-02-05
+7,Headset Bluetooth,Audio,250.00,15,2023-02-10
+8,Webcam Full HD,Acessorios,400.00,7,2023-02-15
