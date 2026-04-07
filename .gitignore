@@ -13,3 +13,12 @@ env/
 # IDE
 .vscode/
 .idea/
+
+# Node
+node_modules/
+
+# Data
+*.jsonl
+
+# Tools
+.claude/
