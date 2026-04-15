@@ -6,6 +6,7 @@ Felipe Mendonça
 Gustavo de Carvalho
 Lauro Lobo
 
+Professor
 - Willgnner de Oliveira Souza
 
 Repositório correspondente ao projeto prático de construção de um pipeline para ingerir, limpar e armazenar a base de dados `BD_Producao_Artistica` de JSONL para MongoDB.
