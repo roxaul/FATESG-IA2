@@ -1,10 +1,10 @@
 # Trabalho N1 - ETL e Armazenamento NoSQL
 
 ## Grupo
-Carlos Henrique
-Felipe Mendonça
-Gustavo de Carvalho
-Lauro Lobo
+-Carlos Henrique
+-Felipe Mendonça
+-Gustavo de Carvalho
+-Lauro Lobo
 
 Professor
 - Willgnner de Oliveira Souza
